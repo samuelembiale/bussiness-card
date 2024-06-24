@@ -1,0 +1,26 @@
+body {
+    margin: 20px;
+  
+}
+
+.card-background {
+    display: flex;
+    justify-content: space-around;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 500px;
+    padding: 20px;
+    margin: 0 auto;
+    background: #ddebf8 ;
+    color: #2b2839;
+    border-bottom: 6px solid #d8cefe;
+    text-align: center;
+
+}
+
+.customizeimage {
+    background-color: white;
+    width: 50%;
+    height: 100%;
+}
+
+
